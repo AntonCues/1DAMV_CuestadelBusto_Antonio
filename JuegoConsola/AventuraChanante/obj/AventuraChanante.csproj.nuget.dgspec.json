@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anton\\Documents\\Repositorios\\1DAMV_CuestadelBusto_Antonio\\JuegoConsola\\AventuraChanante\\AventuraChanante.csproj": {}
+    "c:\\Users\\anton\\Documents\\Repositorios\\1DAMV_CuestadelBusto_Antonio\\JuegoConsola\\AventuraChanante\\AventuraChanante.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anton\\Documents\\Repositorios\\1DAMV_CuestadelBusto_Antonio\\JuegoConsola\\AventuraChanante\\AventuraChanante.csproj": {
+    "c:\\Users\\anton\\Documents\\Repositorios\\1DAMV_CuestadelBusto_Antonio\\JuegoConsola\\AventuraChanante\\AventuraChanante.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anton\\Documents\\Repositorios\\1DAMV_CuestadelBusto_Antonio\\JuegoConsola\\AventuraChanante\\AventuraChanante.csproj",
+        "projectUniqueName": "c:\\Users\\anton\\Documents\\Repositorios\\1DAMV_CuestadelBusto_Antonio\\JuegoConsola\\AventuraChanante\\AventuraChanante.csproj",
         "projectName": "AventuraChanante",
-        "projectPath": "C:\\Users\\anton\\Documents\\Repositorios\\1DAMV_CuestadelBusto_Antonio\\JuegoConsola\\AventuraChanante\\AventuraChanante.csproj",
+        "projectPath": "c:\\Users\\anton\\Documents\\Repositorios\\1DAMV_CuestadelBusto_Antonio\\JuegoConsola\\AventuraChanante\\AventuraChanante.csproj",
         "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anton\\Documents\\Repositorios\\1DAMV_CuestadelBusto_Antonio\\JuegoConsola\\AventuraChanante\\obj\\",
+        "outputPath": "c:\\Users\\anton\\Documents\\Repositorios\\1DAMV_CuestadelBusto_Antonio\\JuegoConsola\\AventuraChanante\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config"

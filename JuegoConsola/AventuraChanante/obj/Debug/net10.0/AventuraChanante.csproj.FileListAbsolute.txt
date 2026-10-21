@@ -1,0 +1,15 @@
+c:\Users\anton\Documents\Repositorios\1DAMV_CuestadelBusto_Antonio\JuegoConsola\AventuraChanante\bin\Debug\net10.0\AventuraChanante.exe
+c:\Users\anton\Documents\Repositorios\1DAMV_CuestadelBusto_Antonio\JuegoConsola\AventuraChanante\bin\Debug\net10.0\AventuraChanante.deps.json
+c:\Users\anton\Documents\Repositorios\1DAMV_CuestadelBusto_Antonio\JuegoConsola\AventuraChanante\bin\Debug\net10.0\AventuraChanante.runtimeconfig.json
+c:\Users\anton\Documents\Repositorios\1DAMV_CuestadelBusto_Antonio\JuegoConsola\AventuraChanante\bin\Debug\net10.0\AventuraChanante.dll
+c:\Users\anton\Documents\Repositorios\1DAMV_CuestadelBusto_Antonio\JuegoConsola\AventuraChanante\bin\Debug\net10.0\AventuraChanante.pdb
+c:\Users\anton\Documents\Repositorios\1DAMV_CuestadelBusto_Antonio\JuegoConsola\AventuraChanante\obj\Debug\net10.0\AventuraChanante.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\anton\Documents\Repositorios\1DAMV_CuestadelBusto_Antonio\JuegoConsola\AventuraChanante\obj\Debug\net10.0\AventuraChanante.AssemblyInfoInputs.cache
+c:\Users\anton\Documents\Repositorios\1DAMV_CuestadelBusto_Antonio\JuegoConsola\AventuraChanante\obj\Debug\net10.0\AventuraChanante.AssemblyInfo.cs
+c:\Users\anton\Documents\Repositorios\1DAMV_CuestadelBusto_Antonio\JuegoConsola\AventuraChanante\obj\Debug\net10.0\AventuraChanante.csproj.CoreCompileInputs.cache
+c:\Users\anton\Documents\Repositorios\1DAMV_CuestadelBusto_Antonio\JuegoConsola\AventuraChanante\obj\Debug\net10.0\AventuraChanante.sourcelink.json
+c:\Users\anton\Documents\Repositorios\1DAMV_CuestadelBusto_Antonio\JuegoConsola\AventuraChanante\obj\Debug\net10.0\AventuraChanante.dll
+c:\Users\anton\Documents\Repositorios\1DAMV_CuestadelBusto_Antonio\JuegoConsola\AventuraChanante\obj\Debug\net10.0\refint\AventuraChanante.dll
+c:\Users\anton\Documents\Repositorios\1DAMV_CuestadelBusto_Antonio\JuegoConsola\AventuraChanante\obj\Debug\net10.0\AventuraChanante.pdb
+c:\Users\anton\Documents\Repositorios\1DAMV_CuestadelBusto_Antonio\JuegoConsola\AventuraChanante\obj\Debug\net10.0\AventuraChanante.genruntimeconfig.cache
+c:\Users\anton\Documents\Repositorios\1DAMV_CuestadelBusto_Antonio\JuegoConsola\AventuraChanante\obj\Debug\net10.0\ref\AventuraChanante.dll
