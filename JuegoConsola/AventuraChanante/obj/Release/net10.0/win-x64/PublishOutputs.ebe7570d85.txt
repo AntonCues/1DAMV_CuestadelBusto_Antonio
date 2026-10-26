@@ -1,0 +1,2 @@
+c:\Users\anton\Documents\Repositorios\1DAMV_CuestadelBusto_Antonio\JuegoConsola\AventuraChanante\bin\Release\net10.0\win-x64\publish\AventuraChanante.pdb
+c:\Users\anton\Documents\Repositorios\1DAMV_CuestadelBusto_Antonio\JuegoConsola\AventuraChanante\bin\Release\net10.0\win-x64\publish\AventuraChanante.exe

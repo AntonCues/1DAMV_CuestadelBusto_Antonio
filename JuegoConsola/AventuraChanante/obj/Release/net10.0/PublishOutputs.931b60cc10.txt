@@ -1,0 +1,5 @@
+c:\Users\anton\Documents\Repositorios\1DAMV_CuestadelBusto_Antonio\JuegoConsola\AventuraChanante\bin\Release\net10.0\publish\AventuraChanante.exe
+c:\Users\anton\Documents\Repositorios\1DAMV_CuestadelBusto_Antonio\JuegoConsola\AventuraChanante\bin\Release\net10.0\publish\AventuraChanante.dll
+c:\Users\anton\Documents\Repositorios\1DAMV_CuestadelBusto_Antonio\JuegoConsola\AventuraChanante\bin\Release\net10.0\publish\AventuraChanante.deps.json
+c:\Users\anton\Documents\Repositorios\1DAMV_CuestadelBusto_Antonio\JuegoConsola\AventuraChanante\bin\Release\net10.0\publish\AventuraChanante.runtimeconfig.json
+c:\Users\anton\Documents\Repositorios\1DAMV_CuestadelBusto_Antonio\JuegoConsola\AventuraChanante\bin\Release\net10.0\publish\AventuraChanante.pdb
