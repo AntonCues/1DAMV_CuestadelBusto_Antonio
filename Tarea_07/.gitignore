@@ -1,0 +1,27 @@
+# ==== Compilados de Java ====
+bin/
+*.class
+
+# ==== Paquetes y logs ====
+*.jar
+*.war
+*.ear
+*.log
+hs_err_pid*
+
+# ==== Eclipse ====
+.metadata/
+.settings/
+.recommenders/
+.externalToolBuilders/
+*.launch
+tmp/
+*.tmp
+*.bak
+*.swp
+*~
+
+# ==== Sistema operativo ====
+Thumbs.db
+desktop.ini
+.DS_Store
